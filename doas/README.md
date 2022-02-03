@@ -1,12 +1,11 @@
-doas
----
+# doas
 
 ## video versions
 - [youtube](https://www.youtube.com/watch?v=Tf4N0fjVjA4&t=105s)
 - [odysee](https://odysee.com/@jediascode:9/doas:6)
 
 ## abstract
-- sudo is a large tool with a number of past vulnerabilities, likely to have more.
+- `sudo` is a large tool with a number of past vulnerabilities, likely to have more.
   - see: [CVE-2021-3156](https://nvd.nist.gov/vuln/detail/CVE-2021-3156)
 - `doas` has the functionality we need with much less code.
   - developed by Ted Unangst for OpenBSD
