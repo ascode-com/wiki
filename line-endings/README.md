@@ -49,7 +49,7 @@ use a tool like
 - `dos2unix` / `unix2dos`
 - `vim` `sed` `tr` etc...
 
-most reliable is probably `dos2unix` (may require install)
+most reliable is probably `dos2unix` ([may require install](https://formulae.brew.sh/formula/dos2unix))
 ```shell
 $ dos2unix crlf.txt # convert to LF
 $ unix2dos lf.txt   # convert to CRLF
@@ -93,4 +93,6 @@ $ git commit -m "normalize line endings"
 ## relevant links
 - [gitattributes templates](https://github.com/alexkaratarakis/gitattributes)
 - [github guide to line endings](https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings)
+- [dos2unix brew install](https://formulae.brew.sh/formula/dos2unix)
+- [dos2unix source](https://waterlan.home.xs4all.nl/dos2unix.html)
 
