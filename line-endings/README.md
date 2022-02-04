@@ -68,13 +68,15 @@ configure git locally to use to `LF` endings
 git config --global core.autocrlf true
 ```
 
-to configure line endings per-project...
+configure line endings per-project **(RECOMMENDED)** 
+
 create a `.gitattributes` file in project root dir
 ```shell
 * text=auto
 ```
 
-i recommend starting with [a template](https://github.com/alexkaratarakis/gitattributes)
+- i recommend starting with [a gitattributes template](https://github.com/alexkaratarakis/gitattributes)
+- **to understand** `warning: LF will be replaced by CRLF`, [refer to this stackoverflow answer](https://stackoverflow.com/questions/1967370/git-replacing-lf-with-crlf)
 
 to change endings in an EXISTING project:
 ```shell
@@ -90,9 +92,14 @@ $ git status
 $ git commit -m "normalize line endings"
 ```
 
+### further reading
+[Mind the End of Your Line - Tim Clem](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/) - if you're interested in reading more!
+
 ## relevant links
 - [gitattributes templates](https://github.com/alexkaratarakis/gitattributes)
 - [github guide to line endings](https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings)
 - [dos2unix brew install](https://formulae.brew.sh/formula/dos2unix)
 - [dos2unix source](https://waterlan.home.xs4all.nl/dos2unix.html)
+- [how autocrlf works](https://stackoverflow.com/questions/1967370/git-replacing-lf-with-crlf)
+- ["Mind the End of Your Line" further reading](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
 
