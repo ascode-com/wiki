@@ -49,6 +49,7 @@ how i went from beginner to passing the 2022 terraform exam in 30 days!
   - scan your environment with webcam
   - no additional monitors or apps running
   - took ~20 minutes before the actual exam
+- no lip movements during exam
 - mentally prepare for this, bc it stressed me out
 
 ### UI
@@ -72,8 +73,8 @@ how i went from beginner to passing the 2022 terraform exam in 30 days!
 
 - results are sent via email IMMEDIATELY after exam
 - broken down by objective per [objectives outline](https://www.hashicorp.com/certification/terraform-associate)
-- use table as unscientific guide on where to focus
 - they send a [credly badge](https://www.credly.com/badges/49244d28-4aeb-41a3-8416-637cf441884a/linked_in) if you pass
+- use my results below as an unscientific guide on where to focus
 
 
 |   | Category                                               | %    |
