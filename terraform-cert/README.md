@@ -2,6 +2,10 @@
 
 how i went from beginner to passing the 2022 terraform exam in 30 days!
 
+video versions:
+- [youtube](https://www.youtube.com/watch?v=R6tVMpNtvQo)
+- [odysee](https://odysee.com/@jediascode:9/terraform-certification-2022:9)
+
 ## intro
 
 ### why take the exam?
@@ -64,7 +68,7 @@ how i went from beginner to passing the 2022 terraform exam in 30 days!
 - 60 minutes, 57 questions
 - ~30 minutes to complete first passthrough
 - ~10 minutes to review my flags
-- ~20 minutes to review EVEYRTHING
+- ~20 minutes to review EVERYTHING
 - try to be faster than 1 question per minute
 - don't get stuck, flag and move on
 - you'll have time to come back

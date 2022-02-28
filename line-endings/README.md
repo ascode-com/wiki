@@ -2,6 +2,10 @@
 
 common line-ending related issues, how to fix and avoid them.
 
+video versions:
+- [youtube](https://www.youtube.com/watch?v=zn7m2Mdm_Vg)
+- [odysee](https://odysee.com/@jediascode:9/line-endings:7)
+
 ## what are line terminators?
 
 computers need to know when to start a new line, but the characters used to represent this can vary between platforms. this causes compatibility issues and unforeseen side effects, such as giant `git diff`s with no apparent change.
