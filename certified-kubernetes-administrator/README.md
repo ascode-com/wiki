@@ -1,12 +1,12 @@
 # Certified Kubernetes Administrator (CKA)
 
-the only guide you'll need to ace the CKA
+everything you need to ace the CKA
 
 ## intro
 - took the June 2022 updated version of the CKA
 - ~1 month of general study with 3 days of exam prep
 - 120 minute exam, had ~50 minutes after my first passthrough
-- passed with a score of XX%
+- passed with a score of XX% (66% pass threshold)
 
 ## outline
 - how to study
@@ -27,6 +27,7 @@ the only guide you'll need to ace the CKA
 
 ## the testing environment
 ![interface](https://miro.medium.com/max/875/1*EzwMAPg4-XuBBWqt6WTmLQ.png)
+
 [source: Kim Wuestkamp on itnext.io](https://itnext.io/cks-cka-ckad-changed-terminal-to-remote-desktop-157a26c1d5e)
 
 - checkin process
