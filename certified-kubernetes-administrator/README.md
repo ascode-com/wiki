@@ -6,7 +6,7 @@ everything you need to ace the CKA
 - took the June 2022 updated version of the CKA
 - ~1 month of general study with 3 days of exam prep
 - 120 minute exam, had ~50 minutes after my first passthrough
-- passed with a score of XX% (66% pass threshold)
+- passed with a score of 91% (66% pass threshold)
 
 ## outline
 - how to study
