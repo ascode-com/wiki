@@ -2,6 +2,10 @@
 
 everything you need to ace the CKA
 
+video versions:
+- [youtube](https://youtu.be/8VK9NJ3pObU)
+- [odysee](https://odysee.com/cka:2d91419bbe07773faed5966e96cd8281b5c3d80c?r=9f3WxR2Dzb1gykXgcuMxPbtww1a2MXhP)
+
 ## intro
 - took the June 2022 updated version of the CKA
 - ~1 month of general study with 3 days of exam prep
@@ -22,6 +26,7 @@ everything you need to ace the CKA
   - 2 free runs with exam purchase
   - do ONCE (timed) then REVIEW
   - the explanations are very well done, read them all.
+  - [UPDATE: july 2022](https://twitter.com/_killer_shell/status/1548205851940229120?s=20&t=O9b0xhvhWuaOwRVAkKsRzQ) now in a remote desktop like the updated exam!
 - [killer coda scenarios](https://killercoda.com/killer-shell-cka)
   - do each one and read the explanations
 
