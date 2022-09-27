@@ -105,7 +105,7 @@ mkcd() { mkdir -p "$@" && cd "$@" ; }
 
 ## create/destroy from yaml faster
 alias kaf='k apply -f '
-alias kdf='k destroy -f '
+alias kdf='k delete -f '
 
 ## namespaces (poor man's `kubens`)
 export nk='-n kube-system'
